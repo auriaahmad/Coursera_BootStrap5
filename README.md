@@ -15,7 +15,8 @@ Welcome to my Bootstrap 5 learning journey! I'm excited to share my exploration 
 - **Responsive Navigation:** Master the art of crafting navigation menus that gracefully adapt from desktop to mobile, enhancing user navigation on various devices.
 
 [Varify](https://coursera.org/share/5165a10fc486bcd19c244714be98e496)
-[! Certificate](Bootstrap_5.png)
+
+![Certificate](Bootstrap_5.png)
 
 ## Let's Connect!
 Feel free to connect with me on LinkedIn to discuss web development, Bootstrap, and more. Let's collaborate on creating stunning, responsive web experiences together.
