@@ -1,6 +1,5 @@
 # Bootstrap 5 Learning Journey 🌐
-
-## Introduction
+ 
 Welcome to my Bootstrap 5 learning journey! I'm excited to share my exploration of responsive web design and the core concepts of Bootstrap 5, which I learned through an engaging course on Coursera.
 
 ## I Took this Certification to Learn 👇👇👇
