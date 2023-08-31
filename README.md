@@ -13,7 +13,8 @@ Welcome to my Bootstrap 5 learning journey! I'm excited to share my exploration 
 - **Layout and Flexbox:** Dive into creating dynamic layouts using the flexible grid system and the power of Flexbox, allowing you to achieve complex designs with ease.
 
 - **Responsive Navigation:** Master the art of crafting navigation menus that gracefully adapt from desktop to mobile, enhancing user navigation on various devices.
-
+## Onward Journey
+Excited to keep building and growing to become Front End Developer! Looking forward to the next learning steps.
 
 ## Let's Connect!
 Feel free to connect with me on LinkedIn to discuss web development, Bootstrap, and more. Let's collaborate on creating stunning, responsive web experiences together.
